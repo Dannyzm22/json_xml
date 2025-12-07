@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleos>
+  <empleo id="1">
+    <titulo>Programador Web</titulo>
+    <empresa>TechSoft</empresa>
+    <ubicacion>Manta</ubicacion>
+    <salario>600</salario>
+  </empleo>
+
+  <empleo id="2">
+    <titulo>Analista Junior</titulo>
+    <empresa>DataCorp</empresa>
+    <ubicacion>Portoviejo</ubicacion>
+    <salario>550</salario>
+  </empleo>
+</empleos>
